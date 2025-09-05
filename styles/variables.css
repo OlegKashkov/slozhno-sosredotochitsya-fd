@@ -1,7 +1,7 @@
 :root {
   --page-bg-image: url("../images/cover-image-dark.png");
   --page-bg-color: #000028;
-  --font-family: "IBM Plex Mono", "Arial", sans-serif;
+  --font-family: "IBM Plex Mono", "monospace";
   --main-font-size: 18px;
   --large-font-size: clamp(6.45rem, 6.3069rem + 0.6107vw, 6.6rem); 
   --bold-font-weight: 700;
@@ -11,7 +11,9 @@
   --corners-color: #ff0070;
   --accent-color: #ff0070;
   --title-decor-color: #000028;
-  --h1-color: #db00ff;
+  --large-color: #db00ff;
   --card-text-color: #f1b2ce;
   --section-title-color: #ff0070;
 }
+
+
