@@ -87,7 +87,8 @@
 
 .header__theme-menu-list {
   display: grid;
-  gap: 12px;
+  gap: 13px;
+  padding-block-end: 2px;
 }
 
 .header__theme-menu-button {
@@ -115,11 +116,11 @@
   pointer-events: none;
 }
 
-.header__theme-menu-button:focus-visible {
+/*.header__theme-menu-button:focus-visible {
   border: 1px solid var(--menu-btn-color);
   outline: none;
   cursor: pointer;
-}
+}*/
 
 .main {
   display: grid;

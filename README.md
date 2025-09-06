@@ -16,8 +16,4 @@
 2. Резиновая верстка для экранов с шириной от: 375px, 768px и 1024px
 
 ## Автор
-<<<<<<< HEAD
-- [Oleg Kashkov](git@github.com:OlegKashkov/slozhno-sosredotochitsya-fd.git)
-=======
 - Github - [Oleg Kashkov](git@github.com:OlegKashkov/slozhno-sosredotochitsya-fd.git)
->>>>>>> 924e9bbfe195927b80cc4e2a92916a8f036f49f6

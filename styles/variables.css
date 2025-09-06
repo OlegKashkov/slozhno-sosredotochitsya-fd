@@ -3,7 +3,7 @@
   --page-bg-color: #000028;
   --font-family: "IBM Plex Mono", "monospace";
   --main-font-size: 18px;
-  --large-font-size: clamp(6.45rem, 6.3069rem + 0.6107vw, 6.6rem); 
+  --large-font-size: 116px; 
   --bold-font-weight: 700;
   --regular-font-weight: 400;
   --menu-btn-color: #ff0070;
