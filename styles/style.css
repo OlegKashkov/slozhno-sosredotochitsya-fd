@@ -106,7 +106,7 @@
   outline: 1px solid var(--menu-btn-color-hover);
 }
 
-.header__theme-menu-button:focus {
+.header__theme-menu-button:focus-visible {
   border-bottom: 1px solid var(--menu-btn-color);
   outline: none;
 }
@@ -115,12 +115,6 @@
   outline: 1px solid currentColor;
   pointer-events: none;
 }
-
-/*.header__theme-menu-button:focus-visible {
-  border: 1px solid var(--menu-btn-color);
-  outline: none;
-  cursor: pointer;
-}*/
 
 .main {
   display: grid;
@@ -166,7 +160,7 @@
   border-bottom: 1px solid var(--card-text-color);
 }
 
-.text_link:focus {
+.text_link:focus-visible {
   border: none;
   outline: 1px solid var(--card-text-color);
 }
